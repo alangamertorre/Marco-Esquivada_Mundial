@@ -107,7 +107,8 @@ if (b5){
 
 if (b6) {
   b6.addEventListener('click', () => {
-    window.open('Créditos\\Index.html')
+    window.open('Créditos\\index.html')
   })
 }
+
 
