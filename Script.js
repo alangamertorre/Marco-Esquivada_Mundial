@@ -48,7 +48,7 @@ if (b2){
 
 if (b3){
   b3.addEventListener('click', () => {
-    window.open('https://alangamertorre.github.io/INFO.-Esquivada-Mundial/INDEX.html');
+    window.open('https://alangamertorre.github.io/INFO.-Esquivada-Mundial/index.html');
   });
 }
 
@@ -110,5 +110,6 @@ if (b6) {
     window.open('Créditos\\index.html')
   })
 }
+
 
 
